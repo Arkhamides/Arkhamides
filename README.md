@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My Name is Joe Archondis, I'm a Software Developer.
+
+
 - 🔭 I’m currently working as a data scientist consultant.
 - ⚡ Soon I will start a new Job as a Low Latency Engineer.
 - My topics of interest include: Machine Learning, Blockchain Development.
