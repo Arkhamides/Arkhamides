@@ -1,6 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
+<!--- TODO: 
+- Redesign work experience and interests
+- Add Links --->
 
 #### My name is Joe Archondis, I'm a Software Developer.
 
