@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Name is Joe Archondis, I'm a Software Developer.
-
+#### My name is Joe Archondis, I'm a Software Developer.
 
 - 🔭 I’m currently working as a Low Latency Engineer.
 - ⚡ My experiences inlcude: working as a Data Scientist Consultant.
@@ -24,10 +23,14 @@ My Name is Joe Archondis, I'm a Software Developer.
 - :weight_lifting_man: My Strengths are: Problem Solving, Curiosity
 
 
-### My Favorite Projects
+### :crossed_swords: My Favorite Projects
 - Ark Farm
 - SubLevel
 
+
+### :book: My Favorite Books
+- Intelligent Investor, Benjamin Graham
+- Advance, Gary Burnison
 
 ### 📫 Reach me: 
 Email: joearchondis@gmail.com
