@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - Advance, Gary Burnison
 
 ### 📫 Reach me: 
-Email: joearchondis@gmail.com
-LinkedIn: https://www.linkedin.com/in/joe-archondis-584047155/
+- Email: joearchondis@gmail.com
+- LinkedIn: https://www.linkedin.com/in/joe-archondis-584047155/
