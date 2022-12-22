@@ -22,8 +22,10 @@
 - Intelligent Investor, Benjamin Graham
 - Advance, Gary Burnison
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joearchondis) 
+
 ##
 
-### 📫 Reach me: 
+## 📫 Reach me: 
 - Email: joearchondis@gmail.com
-- LinkedIn: https://www.linkedin.com/in/joe-archondis-584047155/
