@@ -6,7 +6,7 @@
 
 #### My name is Joe Archondis, I'm a Software Developer.
 
-- 🔭 I’m currently working as a Low Latency Engineer, developing a High Frequency Trading Framework for crpytocurrencies.
+- 🔭 I’m currently working as a Low Latency Engineer, developing a High Frequency Trading Framework for cryptocurrencies.
 - ⚡ My experiences inlcude: Data Scientist Consultant(python), Low Latency Developer(C++).
 - ✨ My topics of interest include: Machine Learning, Blockchain Development, Competitive Programming, Finance.
 - :weight_lifting_man: My Strengths are: API implementation. High Performance development
