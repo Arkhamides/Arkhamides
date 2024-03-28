@@ -8,11 +8,12 @@
 
 - 🔭 I’m currently working as a Low Latency Engineer, developing a High Frequency Trading Framework for cryptocurrencies.
 - ⚡ My experiences inlcude: Data Scientist Consultant(python), Low Latency Developer(C++).
-- ✨ My topics of interest include: Machine Learning, Blockchain Development, Competitive Programming, Finance.
+- ✨ My main topics: AI, Crypto, Finance, Business.
 - :weight_lifting_man: My Strengths are: API implementation. High Performance development
 ##
 
 ### :crossed_swords: My Favorite Projects
+- My Kitchen Tools
 - Ark Farm
 - SubLevel
 
