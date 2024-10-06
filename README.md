@@ -6,9 +6,9 @@
 
 #### My name is Joe Archondis, I'm a Software Developer.
 
-- 🔭 I’m currently working as a Low Latency Engineer, developing a High Frequency Trading Framework for cryptocurrencies.
-- ⚡ My experiences inlcude: Data Scientist Consultant(python), Low Latency Developer(C++).
-- ✨ My main topics: AI, Crypto, Finance, Business.
+- 🔭 I just took my first steps on my entrepreneurship journey and founded a startup called: My Kitchen Tools.
+- ⚡ My experiences inlcude: Low Latency Engineer(C++), Data Scientist Consultant(python).
+- ✨ My main topics: AI, Crypto, Finance, Business, restaurants.
 - :weight_lifting_man: My Strengths are: API implementation. High Performance development
 ##
 
