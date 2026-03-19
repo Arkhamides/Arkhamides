@@ -1,20 +1,17 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--- TODO: 
-- Redesign work experience and interests
-- Add Links --->
+#### I'm Joe Archondis — a Low‑Latency & High‑Performance Software Engineer
 
-#### My name is Joe Archondis, I'm a Software Developer.
+- 🔭 Currently open to low‑latency / HFT / systems engineering opportunities
+- 🧠 Experience: Low Latency Engineer (C++), Data Scientist (Python)
+- 💡 Interests: Crypto, Finance, AI, Business, Entrepreneurship
+- :weight_lifting_man: Strengths: API design, high‑performance development, systems architecture, AI automation
 
-- 🔭 I'm on the lookout for new and exciting opportunities.
-- ⚡ My experiences inlcude: Low Latency Engineer(C++), Data Scientist Consultant(python).
-- ✨ My main topics: Crypto, Finance, AI, Business, Entrepreneurship.
-- :weight_lifting_man: My Strengths are: API implementation. High Performance development
-
-### :crossed_swords: My Favorite Projects
-- My Kitchen Tools
-- Ark Farm
-- SubLevel
+### 🛠️ Tech Stack
+- C++17/20, Multithreading, Lock‑Free Programming
+- FIX Protocol, WebSocket, REST
+- Distributed systems, real‑time data pipelines
+- Fullstack development, Linux, Shell
 
 ### :book: My Favorite Books
 - Intelligent Investor, Benjamin Graham
@@ -24,7 +21,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-archondis-584047155/) 
 
-##
 
 ## 📫 Reach me: 
 - Email: joearchondis@gmail.com
